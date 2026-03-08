@@ -21,6 +21,8 @@ This workspace contains a minimal lab-complete Spring Boot implementation for an
 
 ## Start Kafka
 
+Make sure Docker Desktop is running before starting Kafka.
+
 ```powershell
 docker compose up -d
 ```
