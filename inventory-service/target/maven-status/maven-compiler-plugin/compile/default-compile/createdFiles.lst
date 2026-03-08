@@ -1,0 +1,3 @@
+com\sliit\lab6\inventoryservice\consumer\InventoryOrderConsumer.class
+com\sliit\lab6\inventoryservice\model\OrderCreatedEvent.class
+com\sliit\lab6\inventoryservice\InventoryServiceApplication.class

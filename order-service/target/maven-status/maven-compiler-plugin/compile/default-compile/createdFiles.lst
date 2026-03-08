@@ -1,0 +1,5 @@
+com\sliit\lab6\orderservice\OrderServiceApplication.class
+com\sliit\lab6\orderservice\controller\OrderController.class
+com\sliit\lab6\orderservice\service\OrderPublisherService.class
+com\sliit\lab6\orderservice\model\OrderCreatedEvent.class
+com\sliit\lab6\orderservice\config\KafkaTopicConfig.class

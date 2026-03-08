@@ -1,0 +1,3 @@
+com\sliit\lab6\billingservice\BillingServiceApplication.class
+com\sliit\lab6\billingservice\consumer\BillingOrderConsumer.class
+com\sliit\lab6\billingservice\model\OrderCreatedEvent.class
